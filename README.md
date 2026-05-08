@@ -8,7 +8,6 @@ A full stack software developer from Virginia, USA.
 - Apart from coding, in my spare time I enjoy playing the drums and making homemade soap.
 
 ## + Connect with Me
-- [Portfolio](https://cmhva.com/)
 - [LinkedIn](https://www.linkedin.com/in/cmarshallhayes/)
 - [GitHub](https://github.com/hayes0278/)
 
